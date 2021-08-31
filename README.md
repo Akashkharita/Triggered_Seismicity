@@ -1,13 +1,14 @@
 # Triggered_Seismicity
 A Magnitude 8.2 earthquake struck Chignik, Alaska at 2021-07-29 06:15 am UTC. In this study I Investigate the triggered seismicity due to this earthquake at 4 sites along US west coast - 1) Mount Rainier 2) Geysers 3) Coso and 4) Long Valley Caldera
 
+### An AGU Abstract is submitted for this study in a late breaking session on 2021 Chignik Earthquake.
+
 # Mount Rainier
 
 Mount Rainier is an active volcano located in the central washington. There have been several reports of triggered seismicity caused by dynamic stress changes from surface waves resulting from local and large distant earthquakes. Waveforms of one hour window since the origin of earthquake from all the stations lying within 100 Kms of Mount Rainier peak were downloaded, resulting in combined 34 stations and all the three channels from 'UO','UW' and 'CC' networks. 10 of these stations were Broadband and the rest were short period stations. 
 
 When the waveforms were bandpass filtered between (2-8Hz), a single consistent event appeared to arrive near the timing of arrivals of Rayleigh waves. This observation was consistent in several stations, the spectrograms of the waveforms futher confirmed the arrival of these event. 
-The probability of arrival of an earthquake in a given hour near Mount Rainier was determined to be less than 1 percent additionaly confirming that this event was a triggered trem
-or due to surface waves from the Chignik earthquake
+The probability of arrival of an earthquake in a given hour near Mount Rainier was determined to be less than 1 percent additionaly confirming that this event was a triggered tremor due to surface waves from the Chignik earthquake
 This event was not found to be reported by any catalog. No delayed response or change in seismicity was observed at this site. 
 
 
