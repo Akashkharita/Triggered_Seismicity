@@ -11,6 +11,8 @@ When the waveforms were bandpass filtered between (2-8Hz), a single consistent e
 The probability of arrival of an earthquake in a given hour near Mount Rainier was determined to be less than 1 percent additionaly confirming that this event was a triggered tremor due to surface waves from the Chignik earthquake
 This event was not found to be reported by any catalog. No delayed response or change in seismicity was observed at this site. 
 
+https://user-images.githubusercontent.com/51695294/146490360-5e7beb57-0126-4779-94d3-5d5245b1e17d.jpg
+
 
 # Geysers
 
